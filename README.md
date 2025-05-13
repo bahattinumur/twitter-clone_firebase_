@@ -8,8 +8,6 @@ Rediscover the Twitter experience with the Clone Twitter app! This innovative ap
 
 - CSS
 
-- JavaScript
-
 <h2> Libraries </h2>
 
 - React
